@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1608837999">
+  <File Type="BITSTR-BMM" Name="user_Interface_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="user_Interface_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="user_Interface_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="user_Interface_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="user_Interface.tcl"/>
+  <File Type="OPT-TIMING" Name="user_Interface_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="user_Interface_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="user_Interface_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="user_Interface_reports.tcl"/>
+  <File Type="OPT-DRC" Name="user_Interface_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="user_Interface.hwdef"/>
+  <File Type="PWROPT-DCP" Name="user_Interface_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="user_Interface_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="user_Interface_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="user_Interface_placed.dcp"/>
+  <File Type="PLACE-IO" Name="user_Interface_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="user_Interface_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="user_Interface_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="user_Interface_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="user_Interface_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="user_Interface_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="user_Interface_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="user_Interface_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="user_Interface_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="user_Interface.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="user_Interface_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="user_Interface_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="user_Interface_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="user_Interface.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="user_Interface_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="user_Interface_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="user_Interface_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="user_Interface_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="user_Interface_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="user_Interface_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="user_Interface_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="user_Interface.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="user_Interface_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="user_Interface_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="user_Interface_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="user_Interface_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="user_Interface_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="user_Interface_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="user_Interface_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="user_Interface_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="user_Interface_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="user_Interface_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="user_Interface_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="user_Interface_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="user_Interface_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="user_Interface_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="user_Interface_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="user_Interface_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="user_Interface_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="user_Interface_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="user_Interface_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="user_Interface_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="user_Interface_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="user_Interface.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="user_Interface_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="user_Interface.rbt"/>
+  <File Type="BITSTR-NKY" Name="user_Interface.nky"/>
+  <File Type="PDI-FILE" Name="user_Interface.pdi"/>
+  <File Type="RCFI_FILE" Name="user_Interface.rcfi"/>
+  <File Type="CFI_FILE" Name="user_Interface.cfi"/>
+  <File Type="RNPI_FILE" Name="user_Interface.rnpi"/>
+  <File Type="NPI_FILE" Name="user_Interface.npi"/>
+  <File Type="RBD_FILE" Name="user_Interface.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="user_Interface.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="user_Interface.sysdef"/>
+  <File Type="BG-BGN" Name="user_Interface.bgn"/>
+  <File Type="BG-DRC" Name="user_Interface.drc"/>
+  <File Type="RDI-RDI" Name="user_Interface.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/ALU.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/controller.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/dataMemory.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/instructionMemory.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/registerFile.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/user_Interface.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="user_Interface"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/user_Interface_CNST.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
